@@ -1,10 +1,13 @@
 ## Суслова Алиса Владиславовна
 ### Android-разработчик([резюме](https://github.com/alisasuslova/resume-android/blob/main/resume-android.md))
 
-### Вот что я умею:
+### В настоящее время продолжаю обучение в Нетологии на курсе "Android-разработчик с нуля". 
+Изучаю:
+* Kotlin
+* Android Studio
+* ["Репозиторий с мои текущим учебным проектом"](https://github.com/alisasuslova/NMedia)
 
-* Kotlin. ["Репозиторий с мои текущим учебным проектом"](https://github.com/alisasuslova/NMedia)
-
+### Ранее закончила курс "Java-разработчик". Вот что я умею:
 * Java. Репозиторий с дипломной работой 
 ["Поисковая система"](https://github.com/alisasuslova/Diplom_1)
 
@@ -46,8 +49,3 @@
 
 * [Специальность "Автоматизированные системы обработки информации и управления"](https://github.com/alisasuslova/resume/tree/main/diplom)
 
-#### В настоящее время продолжаю обучение в Нетологии на курсе "Android-разработчик с нуля". 
-Изучаю:
-
-* Kotlin
-* Android Studio
