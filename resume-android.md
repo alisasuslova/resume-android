@@ -1,9 +1,6 @@
 # Суслова Алиса Владиславовна
 ## Android-разработчик (junior)
 
-![Alt text](https://github.com/alisasuslova/resume-android/blob/main/%D0%A4%D0%BE%D1%82%D0%BE-250.png?raw=true)
-
-
 ## Личная информация
 
 Город проживания: Санкт-Петербург<br>
