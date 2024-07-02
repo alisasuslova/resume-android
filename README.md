@@ -49,5 +49,5 @@
 #### В настоящее время продолжаю обучение в Нетологии на курсе "Android-разработчик с нуля". 
 Изучаю:
 
-* [Kotlin](https://github.com/alisasuslova/resume/blob/main/certificates/%D0%9A%D0%BE%D1%82%D0%BB%D0%B8%D0%BD.pdf)
+* Kotlin
 * Android Studio
