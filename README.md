@@ -1,5 +1,5 @@
 ## Суслова Алиса Владиславовна
-### Android-разработчик([резюме](https://github.com/alisasuslova/resume-android/blob/main/resume.md))
+### Android-разработчик([резюме](https://github.com/alisasuslova/resume-android/blob/main/resume-android.md)
 
 ### Вот что я умею:
 
